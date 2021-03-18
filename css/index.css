@@ -3,12 +3,13 @@
  }
 
 body{
+	background-color: rgb(3,3,3,0.12);
 	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 }
 
 header{
-	background-color: #333;
+	background-color: rgb(172, 65, 4);
 	height: 3em;
 	color: #FFF;
 	margin-bottom: 1em;
@@ -52,6 +53,7 @@ section h2{
 }
 
 table{
+	background-color: rgba(3, 3, 3, 0.041);
 	width: 100%;
 	margin-bottom : .5em;
     table-layout: fixed;

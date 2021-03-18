@@ -1,3 +1,6 @@
+//Alert box
+alert('Olá, você está prestes a conhecer meu primeiro projeto em js, nele você pode adicionar pacientes, filtrar os pacientes na tabela, importar uma tabela já existente e apagar pacientes. Agradeço a visita! =)')
+
 var botaoAdicionar = document.querySelector('#adicionar-paciente');
 botaoAdicionar.addEventListener('click', function () {
     event.preventDefault();
